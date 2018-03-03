@@ -1,0 +1,57 @@
+Country,ISO-3,NumOfUsers
+United States,USA,469
+Canada,CAN,68
+Netherlands,NLD,16
+New Zealand,NZL,10
+Denmark,DNK,5
+Germany,DEU,48
+United Kingdom,GBR,135
+Ireland,IRL,5
+Australia,AUS,46
+Turkey,TUR,2
+Hungary,HUN,3
+Finland,FIN,9
+France,FRA,16
+Brazil,BRA,8
+India,IND,11
+Poland,POL,8
+Spain,ESP,9
+Israel,ISR,18
+Belarus,BLR,1
+Estonia,EST,3
+Latvia,LVA,2
+Thailand,THA,3
+Paraguay,PRY,1
+Sweden,SWE,12
+Belgium,BEL,12
+South Africa,ZAF,3
+Portugal,PRT,4
+Argentina,ARG,8
+Romania,ROU,5
+Switzerland,CHE,9
+Italy,ITA,7
+Norway,NOR,10
+Puerto Rico,PRI,1
+Colombia,COL,1
+Mexico,MEX,1
+Iceland,ISL,2
+Bermuda,BMU,1
+Chile,CHL,2
+Slovakia,SVK,1
+Singapore,SGP,3
+Ukraine,UKR,3
+Japan,JPN,1
+Czechia,CZE,3
+Bosnia and Herzegovina,BIH,1
+Russia,RUS,3
+Serbia,SRB,1
+New Caledonia,NCL,1
+Taiwan,TWN,1
+Austria,AUT,1
+Greece,GRC,1
+Slovenia,SVN,1
+Guadeloupe,GLP,1
+Croatia,HRV,1
+Lithuania,LTU,1
+Pakistan,PAK,1
+Macedonia (FYROM),MKD,1
